@@ -1,1 +1,31 @@
+{
+  "featuredVideo": {
+    "title": "Anh em mình cứ thế thôi hẹ hẹ hẹ",
+    "videoUrl": "https://www.youtube.com/watch?v=BrvO2tdfjt8&list=RDBrvO2tdfjt8&start_radio=1",
+    "thumbnail": "https://cdnv2.tgdd.vn/mwg-static/common/News/1575648/hinh-nen-dien-thoai-cute-29-2-1.jpg",
+    "description": ""
+  },
+  "events": [
+    {
+      "id": "1",
+      "title": "Sự kiện CAR GUZMAN",
+      "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1575648/hinh-nen-dien-thoai-cute-29-2-1.jpg",
+    },
+    {
+      "id": "2",
+      "title": "Sự kiện ĐIỂM DANH",
+      "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1575648/hinh-nen-dien-thoai-cute-29-2-1.jpg",
+    },
+    {
+      "id": "3",
+      "title": "Sự kiện CỘNG ĐỒNG : GTASV",
+      "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1575648/hinh-nen-dien-thoai-cute-29-2-1.jpg",
+    },
+    {
+      "id": "4",
+      "title": "Sự kiện : VÒNG QUAY MAY MẮN SINH NHẬT",
+      "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1575648/hinh-nen-dien-thoai-cute-29-2-1.jpg",
+    }
+  ]
+}
 
